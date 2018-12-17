@@ -1,0 +1,17 @@
+body {
+  background-image: url(../img/pow-star.png)!important;  
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  color: #000;
+  height: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+
+.wrapper img{
+  width: 40%;
+  margin-top: 20px;
+}
+
+h1{
+  font-weight: 900;
+}
